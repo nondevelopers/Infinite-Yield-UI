@@ -1,4 +1,4 @@
-# IY UI Base
+# Infinite Yield UI Base
 
 A stripped-down, customizable UI framework for client-side Roblox Luau runtimes, extracted from [Infinite Yield](https://github.com/EdgeIY/infiniteyield). It keeps the menu, command bar, settings panels and executor compatibility layer, and removes the built-in commands so you can build your own on top.
 
