@@ -34,7 +34,7 @@ This project is **not** for Roblox Studio.
 ## Installation
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/<your-user>/<your-repo>/main/IY_UI_Services.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nondevelopers/Infinite-Yield-UI/main/EgdeUI.luau"))()
 ```
 
 Or paste the contents of `IY_UI_Services.lua` straight into your executor.
