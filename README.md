@@ -27,7 +27,6 @@ A stripped-down, customizable UI framework for client-side Roblox Luau runtimes,
   `gethui`, `cloneref`, `writefile` / `readfile` / `isfile` / `makefolder`, `getcustomasset`, `queue_on_teleport`, `setclipboard`
 - File functions are needed to save settings and cache icon assets. Without them the UI still works, but nothing persists.
 
-This project is **not** for Roblox Studio.
 
 ---
 
