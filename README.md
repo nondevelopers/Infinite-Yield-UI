@@ -37,7 +37,7 @@ This project is **not** for Roblox Studio.
 loadstring(game:HttpGet("https://raw.githubusercontent.com/nondevelopers/Infinite-Yield-UI/main/EgdeUI.luau"))()
 ```
 
-Or paste the contents of `IY_UI_Services.lua` straight into your executor.
+Or paste the contents of `EgdeUI.lua` straight into your executor.
 
 ---
 
@@ -166,6 +166,3 @@ Scripts that run in a game client may violate Roblox's Terms of Use and can lead
 
 Replace the links, names and placeholders above with your own before publishing.
 
-## License
-
-Add a license that is compatible with the original project's license. Check the Infinite Yield repository for its terms before choosing one.
